@@ -1,0 +1,1633 @@
+sample	batch	reads	proto	date	location	sample	batch	pos	gene	base	cov	var	frac	om4	om2121	om275	om2	om1	om5	bq1
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	241		T	15	15	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	670	ORF1ab	G	216101	216090	0.9999490978755304	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	686	ORF1ab	-	216782	1	4.612929117731177e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	687	ORF1ab	-	216708	1	4.614504309947025e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	688	ORF1ab	-	216673	2	9.230499416170912e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	689	ORF1ab	-	216483	1	4.619300360767358e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	690	ORF1ab	-	216376	1	4.62158464894443e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	691	ORF1ab	-	216276	2	9.24744308198783e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	692	ORF1ab	-	216008	2	9.258916336431984e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	693	ORF1ab	-	215892	1	4.631945602430845e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	694	ORF1ab	-	215791	1	4.634113563586989e-06	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	1931	ORF1ab	A	130691	6	4.590981781453964e-05							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	2790	ORF1ab	T	6461	6454	0.9989165763813651	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	2832	ORF1ab	G	6466	1	0.0001546551190844417					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	2954	ORF1ab	C	39	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	3037	ORF1ab	T	2	2	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	3796	ORF1ab	T	14519	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	3927	ORF1ab	T	13	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	4321	ORF1ab	T	11	11	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	4586	ORF1ab	T	0	0				mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	5183	ORF1ab	T	6902	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	5386	ORF1ab	G	248	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	6513	ORF1ab	-	300	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	6514	ORF1ab	-	300	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	6515	ORF1ab	-	300	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	8393	ORF1ab	A	9421	1	0.00010614584439019212					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	9424	ORF1ab	G	167	167	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	9534	ORF1ab	T	867	867	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	9866	ORF1ab	T	2584	139	0.05379256965944272		mut	mut	mut			
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	10029	ORF1ab	T	684	684	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	10198	ORF1ab	T	3150	3149	0.9996825396825397	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	10447	ORF1ab	A	23376	23369	0.9997005475701575	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	10449	ORF1ab	A	23361	23350	0.9995291297461582	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11285	ORF1ab	-	12705	4	0.0003148366784730421					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11286	ORF1ab	-	12705	4	0.0003148366784730421					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11287	ORF1ab	-	12705	4	0.0003148366784730421					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11288	ORF1ab	-	12705	12704	0.9999212908303817	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11289	ORF1ab	-	12783	12703	0.9937416881796135	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11290	ORF1ab	-	12831	12703	0.9900241602369262	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11291	ORF1ab	-	12950	12703	0.980926640926641	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11292	ORF1ab	-	12976	12701	0.9788070283600493	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11293	ORF1ab	-	12997	12701	0.9772255135800569	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11294	ORF1ab	-	13057	12701	0.9727349314543923	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11295	ORF1ab	-	13080	12701	0.9710244648318043	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11296	ORF1ab	-	13080	12701	0.9710244648318043	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11537	ORF1ab	G	101	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11674	ORF1ab	T	6663	281	0.04217319525739156		mut					
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	11750	ORF1ab	T	5424	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	12160	ORF1ab	A	176	165	0.9375	mut					mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	12444	ORF1ab	G	7	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	12880	ORF1ab	T	33093	33072	0.9993654247121748	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	13195	ORF1ab	C	58971	12	0.00020348985094368417					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	14257	ORF1ab	C	13	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	14408	ORF1ab	T	4431	4346	0.9808169713382984	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	15009	ORF1ab	C	221	15	0.06787330316742081		mut					
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	15240	ORF1ab	T	454	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	15451	ORF1ab	A	6	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	15714	ORF1ab	T	236	236	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	16935	ORF1ab	A	303	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	17410	ORF1ab	T	16105	16104	0.9999379074821484	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	18163	ORF1ab	G	211	211	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	19955	ORF1ab	T	33	33	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	20055	ORF1ab	G	7	7	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21618	S	T	3464	3464	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21633	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21634	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21635	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21636	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21637	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21638	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21639	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21640	S	-	3465	3465	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21641	S	-	3465	3464	0.9997113997113997	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21721	S	T	3	0	0.0		mut					
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21762	S	T	57	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21765	S	-	57	53	0.9298245614035088	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21766	S	-	58	53	0.9137931034482759	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21767	S	-	58	53	0.9137931034482759	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21768	S	-	58	53	0.9137931034482759	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21769	S	-	60	53	0.8833333333333333	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21770	S	-	65	53	0.8153846153846154	mut				mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21846	S	T	767	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21987	S	A	159	159	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21987	S	-	159	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21988	S	-	158	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21989	S	-	158	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21990	S	-	158	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21991	S	-	156	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21992	S	-	156	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21993	S	-	155	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21994	S	-	155	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	21995	S	-	154	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22001	S	G	130	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22016	S	C	64	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22033	S	A	4	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22190	S	G	163	0	0.0			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22194	S	-	163	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22195	S	-	163	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22196	S	-	163	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22200	S	G	163	163	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22331	S	A	0	0				mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22577	S	C	0	0				mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22599	S	C	0	0				mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22673	S	C	8	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22674	S	T	8	8	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22679	S	C	9	9	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22686	S	T	9	9	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22688	S	G	9	9	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22775	S	A	206	206	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22786	S	C	197	197	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22813	S	T	197	197	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22882	S	G	161	161	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22893	S	C	97	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22898	S	A	2	0	0.0			mut		mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22917	S	A	0	0			mut					
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22917	S	G	0	0		mut					mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22942	S	A	0	0								mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22942	S	G	0	0				mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22992	S	A	16186	16181	0.9996910910663537	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	22995	S	A	16194	16194	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23013	S	C	16371	16366	0.9996945818825973	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23018	S	G	16370	15279	0.9333536957849725	mut					mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23040	S	G	16355	1105	0.06756343625802506		mut		mut	mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23048	S	A	16353	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23055	S	G	16349	16338	0.9993271759740657	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23063	S	T	16349	16344	0.9996941708973026	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23075	S	C	15872	15871	0.9999369959677419	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23202	S	A	11915	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23403	S	G	1444	1444	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23525	S	T	44055	44048	0.9998411077062762	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23599	S	G	44424	44419	0.999887448226184	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23604	S	A	43819	43804	0.9996576827403638	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23673	S	T	704	0	0.0		mut					
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23854	S	A	704	704	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	23948	S	T	238	238	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	24130	S	A	232	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	24424	S	T	7476	7475	0.9998662386302836	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	24469	S	A	15843	15768	0.9952660480969513	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	24503	S	T	15989	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	25000	S	T	2220	2219	0.9995495495495496	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	25416	ORF3a	T	56248	960	0.017067273503057888		mut	mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	25584	ORF3a	T	300	300	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26060	ORF3a	T	44542	44510	0.9992815769386197	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26270	E	T	44589	44557	0.9992823342079885	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26275	E	G	44591	3	6.727815029938777e-05			mut				
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26529	M	A	32	32	1.0						mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26530	M	G	32	0	0.0					mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26577	M	G	36	36	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26709	M	A	34751	34741	0.9997122384967339	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	26858	M	T	34400	1797	0.052238372093023254	mut	mut	mut	mut			
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27259	ORF6	C	12128	487	0.04015501319261214	mut	mut	mut	mut	mut		
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27382	ORF6	C	49	1	0.02040816326530612	mut	mut	mut	mut			
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27383	ORF6	T	49	1	0.02040816326530612	mut	mut	mut	mut			
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27384	ORF6	C	51	1	0.0196078431372549	mut	mut	mut	mut			
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27788	ORF7b	T	11027	2	0.00018137299356125872	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27807	ORF7b	T	11019	11017	0.9998184953262547	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	27889		T	6	6	1.0						mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28271		T	92241	92208	0.9996422415194979	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28311	N	T	92032	92011	0.9997718184979137	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28312	N	T	91819	2	2.1781984120933576e-05							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28362	N	-	443	436	0.9841986455981941	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28363	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28364	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28365	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28366	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28367	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28368	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28369	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28370	N	-	436	436	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28681	N	T	2721	0	0.0							mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28724	N	T	104	0	0.0	mut						
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28881	N	A	288684	288581	0.9996432084909451	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28882	N	A	288545	288447	0.9996603649344123	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	28883	N	C	288545	288514	0.9998925644180284	mut	mut	mut	mut	mut	mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29510	N	C	34208	34204	0.9998830682881198	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29734		-	25651	25650	0.9999610151651008	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29735		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29736		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29737		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29738		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29739		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29740		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29741		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29742		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29743		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29744		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29745		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29746		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29747		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29748		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29749		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29750		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29751		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29752		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29753		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29754		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29755		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29756		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29757		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29758		-	25651	25651	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-06-12	151	v41	2022-06-12	Davos	davos	2022-06-12	29759		-	25651	25650	0.9999610151651008	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	241		T	22	22	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	670	ORF1ab	G	137089	137075	0.9998978765619415	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	686	ORF1ab	-	137447	361	0.002626466929070842	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	687	ORF1ab	-	137419	361	0.0026270020885030454	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	688	ORF1ab	-	137399	361	0.002627384478780777	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	689	ORF1ab	-	137324	361	0.0026288194343304884	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	690	ORF1ab	-	137273	361	0.0026297960997428483	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	691	ORF1ab	-	137224	361	0.0026307351483705475	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	692	ORF1ab	-	137106	362	0.0026402929120534478	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	693	ORF1ab	-	137065	361	0.0026337868894320215	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	694	ORF1ab	-	137015	361	0.002634748020289749	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	1931	ORF1ab	A	87262	12664	0.145126171758612							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	2790	ORF1ab	T	4296	4295	0.9997672253258846	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	2832	ORF1ab	G	4302	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	2954	ORF1ab	C	451	105	0.2328159645232816							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	3037	ORF1ab	T	2	2	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	3796	ORF1ab	T	10895	2	0.0001835704451583295			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	3927	ORF1ab	T	10	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	4184	ORF1ab	A	5	5	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	4321	ORF1ab	T	29	29	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	4586	ORF1ab	T	0	0				mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	5183	ORF1ab	T	5466	1	0.00018294914013904133			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	5386	ORF1ab	G	162	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	6513	ORF1ab	-	662	4	0.006042296072507553					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	6514	ORF1ab	-	662	4	0.006042296072507553					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	6515	ORF1ab	-	663	4	0.006033182503770739					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	8393	ORF1ab	A	6484	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	9424	ORF1ab	G	217	217	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	9534	ORF1ab	T	945	944	0.9989417989417989	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	9866	ORF1ab	T	3337	0	0.0		mut	mut	mut			
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	10029	ORF1ab	T	769	769	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	10198	ORF1ab	T	3405	3403	0.9994126284875183	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	10447	ORF1ab	A	23007	22993	0.9993914895466597	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	10449	ORF1ab	A	22979	22974	0.999782410026546	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11285	ORF1ab	-	10954	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11286	ORF1ab	-	10954	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11287	ORF1ab	-	10954	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11288	ORF1ab	-	10954	10954	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11289	ORF1ab	-	11038	10954	0.9923899257111796	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11290	ORF1ab	-	11100	10954	0.9868468468468469	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11291	ORF1ab	-	11254	10954	0.9733428114448196	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11292	ORF1ab	-	11280	10954	0.9710992907801419	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11293	ORF1ab	-	11309	10954	0.9686090724201963	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11294	ORF1ab	-	11361	10954	0.9641756887597923	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11295	ORF1ab	-	11388	10954	0.961889708465051	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11296	ORF1ab	-	11388	10954	0.961889708465051	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11537	ORF1ab	G	72	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11674	ORF1ab	T	6295	0	0.0		mut					
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	11750	ORF1ab	T	5158	965	0.18708801861186505							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	12160	ORF1ab	A	83	83	1.0	mut					mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	12444	ORF1ab	G	7	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	12880	ORF1ab	T	27075	27056	0.9992982456140351	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	13195	ORF1ab	C	41737	4	9.583822507607159e-05					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	14257	ORF1ab	C	19	0	0.0							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	14408	ORF1ab	T	4683	4681	0.9995729233397395	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	15009	ORF1ab	C	350	9	0.025714285714285714		mut					
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	15240	ORF1ab	T	619	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	15451	ORF1ab	A	8	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	15714	ORF1ab	T	170	169	0.9941176470588236	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	16935	ORF1ab	A	194	30	0.15463917525773196							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	17410	ORF1ab	T	7208	7206	0.9997225305216426	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	18163	ORF1ab	G	135	135	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	19955	ORF1ab	T	27	27	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	20055	ORF1ab	G	4	4	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21618	S	T	4119	4117	0.9995144452537024	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21633	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21634	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21635	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21636	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21637	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21638	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21639	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21640	S	-	4121	4121	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21641	S	-	4121	4118	0.9992720213540403	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21721	S	T	2	0	0.0		mut					
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21762	S	T	37	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21765	S	-	37	37	1.0	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21766	S	-	37	37	1.0	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21767	S	-	37	37	1.0	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21768	S	-	37	37	1.0	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21769	S	-	39	37	0.9487179487179487	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21770	S	-	43	37	0.8604651162790697	mut				mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21846	S	T	371	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21987	S	A	256	256	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21987	S	-	256	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21988	S	-	256	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21989	S	-	255	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21990	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21991	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21992	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21993	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21994	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	21995	S	-	254	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22001	S	G	223	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22016	S	C	111	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22033	S	A	5	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22190	S	G	257	0	0.0			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22194	S	-	257	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22195	S	-	257	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22196	S	-	257	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22200	S	G	257	257	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22331	S	A	0	0				mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22577	S	C	0	0				mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22599	S	C	0	0				mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22673	S	C	3	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22674	S	T	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22679	S	C	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22686	S	T	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22688	S	G	3	3	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22775	S	A	201	201	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22786	S	C	198	198	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22813	S	T	198	198	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22882	S	G	177	177	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22893	S	C	103	0	0.0							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22898	S	A	0	0				mut		mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22917	S	A	0	0			mut					
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22917	S	G	0	0		mut					mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22942	S	A	0	0								mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22942	S	G	0	0				mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22992	S	A	17506	17501	0.9997143836398948	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	22995	S	A	17513	17508	0.999714497801633	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23013	S	C	17688	17684	0.9997738579828132	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23018	S	G	17687	17679	0.9995476903940748	mut					mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23040	S	G	17663	1	5.6615523976674406e-05		mut		mut	mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23048	S	A	17658	1	5.6631555102503115e-05					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23055	S	G	17657	17635	0.9987540352268223	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23063	S	T	17655	17650	0.9997167941093175	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23075	S	C	17045	17043	0.9998826635376944	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23202	S	A	12778	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23403	S	G	799	798	0.9987484355444305	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23525	S	T	30035	30025	0.9996670551023805	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23599	S	G	31105	31103	0.9999357016556824	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23604	S	A	30602	30586	0.999477158355663	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23673	S	T	1387	0	0.0		mut					
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23854	S	A	1387	1386	0.9992790194664743	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	23948	S	T	198	198	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	24130	S	A	199	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	24424	S	T	7122	7120	0.9997191800056164	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	24469	S	A	14261	14240	0.9985274524928126	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	24503	S	T	14401	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	25000	S	T	3277	3276	0.9996948428440647	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	25416	ORF3a	T	53762	3	5.5801495480078865e-05		mut	mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	25584	ORF3a	T	236	236	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26060	ORF3a	T	38690	38667	0.9994055311449987	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26270	E	T	38711	38672	0.9989925344217406	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26275	E	G	38717	3	7.748534235607098e-05			mut				
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26529	M	A	14	13	0.9285714285714286						mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26530	M	G	14	0	0.0					mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26577	M	G	14	14	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26709	M	A	28722	28702	0.9993036696608871	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	26858	M	T	28210	488	0.01729883020205601	mut	mut	mut	mut			
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27259	ORF6	C	9983	0	0.0	mut	mut	mut	mut	mut		
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27382	ORF6	C	29	0	0.0	mut	mut	mut	mut			
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27383	ORF6	T	30	0	0.0	mut	mut	mut	mut			
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27384	ORF6	C	30	0	0.0	mut	mut	mut	mut			
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27788	ORF7b	T	8144	2	0.0002455795677799607	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27807	ORF7b	T	8135	8134	0.9998770743700062	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	27889		T	11	11	1.0						mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28271		T	67886	67851	0.9994844297793359	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28311	N	T	67680	67666	0.9997931442080378	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28312	N	T	67498	401	0.005940916767904234							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28362	N	-	460	455	0.9891304347826086	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28363	N	-	456	455	0.9978070175438597	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28364	N	-	456	455	0.9978070175438597	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28365	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28366	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28367	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28368	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28369	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28370	N	-	455	455	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28681	N	T	1445	223	0.15432525951557094							mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28724	N	T	37	2	0.05405405405405406	mut						
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28881	N	A	205424	205364	0.9997079211776618	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28882	N	A	205399	205328	0.9996543313258585	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	28883	N	C	205399	205364	0.9998295999493668	mut	mut	mut	mut	mut	mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29510	N	C	44310	44302	0.9998194538478898	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29734		-	36943	36935	0.999783450180007	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29735		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29736		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29737		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29738		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29739		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29740		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29741		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29742		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29743		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29744		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29745		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29746		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29747		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29748		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29749		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29750		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29751		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29752		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29753		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29754		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29755		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29756		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29757		-	36943	36943	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29758		-	36943	36941	0.9999458625450017	mut	mut	mut	mut		mut	mut
+davos	2022-07-17	151	v41	2022-07-17	Davos	davos	2022-07-17	29759		-	36943	36936	0.9998105189075062	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	670	ORF1ab	G	311723	311684	0.9998748889238201	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	686	ORF1ab	-	312358	43305	0.1386389975604915	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	687	ORF1ab	-	312300	43308	0.1386743515850144	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	688	ORF1ab	-	312265	43308	0.13868989480089028	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	689	ORF1ab	-	312118	43308	0.13875521437405083	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	690	ORF1ab	-	312045	43308	0.1387876748545883	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	691	ORF1ab	-	311986	43308	0.13881392113748695	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	692	ORF1ab	-	311789	43311	0.13891125087799763	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	693	ORF1ab	-	311738	43289	0.1388634045255952	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	694	ORF1ab	-	311662	43289	0.1388972669109484	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	1931	ORF1ab	A	246511	43503	0.17647488347375978							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	2790	ORF1ab	T	14299	14294	0.9996503251975662	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	2832	ORF1ab	G	14307	1	6.989585517578807e-05					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	2954	ORF1ab	C	144	41	0.2847222222222222							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	3037	ORF1ab	T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	3796	ORF1ab	T	36629	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	3927	ORF1ab	T	37	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	4184	ORF1ab	A	2	2	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	4321	ORF1ab	T	89	89	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	4586	ORF1ab	T	0	0				mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	5183	ORF1ab	T	15611	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	5386	ORF1ab	G	612	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	6513	ORF1ab	-	1165	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	6514	ORF1ab	-	1165	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	6515	ORF1ab	-	1165	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	8393	ORF1ab	A	24931	2	8.022141109462116e-05					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	9424	ORF1ab	G	596	596	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	9534	ORF1ab	T	2488	2486	0.9991961414790996	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	9866	ORF1ab	T	10490	0	0.0		mut	mut	mut			
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	10029	ORF1ab	T	2979	2978	0.9996643168848607	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	10198	ORF1ab	T	6894	6889	0.9992747316507108	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	10447	ORF1ab	A	70144	70123	0.9997006158759124	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	10449	ORF1ab	A	70126	70100	0.9996292387987337	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11285	ORF1ab	-	38858	8	0.00020587781151886356					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11286	ORF1ab	-	38858	8	0.00020587781151886356					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11287	ORF1ab	-	38859	8	0.00020587251344604855					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11288	ORF1ab	-	38859	38854	0.9998713296790962	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11289	ORF1ab	-	39124	38856	0.9931499846641447	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11290	ORF1ab	-	39329	38856	0.9879732512903964	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11291	ORF1ab	-	39725	38856	0.9781246066708622	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11292	ORF1ab	-	39827	38851	0.9754940116001707	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11293	ORF1ab	-	39895	38851	0.973831307181351	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11294	ORF1ab	-	40094	38851	0.9689978550406545	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11295	ORF1ab	-	40162	38851	0.9673572033265275	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11296	ORF1ab	-	40162	38851	0.9673572033265275	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11537	ORF1ab	G	240	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11674	ORF1ab	T	18308	0	0.0		mut					
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	11750	ORF1ab	T	14723	3849	0.2614276981593425							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	12160	ORF1ab	A	285	268	0.9403508771929825	mut					mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	12444	ORF1ab	G	10	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	12880	ORF1ab	T	85235	85174	0.9992843315539391	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	13195	ORF1ab	C	120788	28	0.0002318111070636156					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	14257	ORF1ab	C	36	0	0.0							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	14408	ORF1ab	T	13591	13584	0.9994849532779045	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	15009	ORF1ab	C	790	8	0.010126582278481013		mut					
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	15240	ORF1ab	T	1101	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	15451	ORF1ab	A	10	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	15714	ORF1ab	T	262	262	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	16935	ORF1ab	A	834	167	0.20023980815347722							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	17410	ORF1ab	T	23621	23619	0.9999153295796114	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	18163	ORF1ab	G	231	231	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	19955	ORF1ab	T	138	138	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	20055	ORF1ab	G	32	32	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21618	S	T	20659	20653	0.9997095696790745	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21633	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21634	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21635	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21636	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21637	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21638	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21639	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21640	S	-	20682	20682	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21641	S	-	20682	20680	0.9999032975534281	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21721	S	T	8	0	0.0		mut					
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21762	S	T	70	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21765	S	-	70	70	1.0	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21766	S	-	70	70	1.0	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21767	S	-	70	70	1.0	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21768	S	-	70	70	1.0	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21769	S	-	72	70	0.9722222222222222	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21770	S	-	76	70	0.9210526315789473	mut				mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21846	S	T	1584	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21987	S	A	987	987	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21987	S	-	987	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21988	S	-	987	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21989	S	-	984	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21990	S	-	980	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21991	S	-	976	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21992	S	-	976	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21993	S	-	966	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21994	S	-	964	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	21995	S	-	958	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22001	S	G	825	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22016	S	C	417	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22033	S	A	14	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22190	S	G	1004	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22194	S	-	1004	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22195	S	-	1004	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22196	S	-	1004	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22200	S	G	1004	1004	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22331	S	A	1	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22577	S	C	0	0				mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22599	S	C	0	0				mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22673	S	C	87	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22674	S	T	87	87	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22679	S	C	90	90	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22686	S	T	91	91	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22688	S	G	91	91	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22775	S	A	1009	1008	0.9990089197224975	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22786	S	C	917	917	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22813	S	T	915	914	0.9989071038251366	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22882	S	G	759	758	0.9986824769433466	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22893	S	C	462	0	0.0							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22898	S	A	13	0	0.0			mut		mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22917	S	A	4	0	0.0		mut					
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22917	S	G	4	4	1.0	mut					mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22942	S	A	1	0	0.0							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22942	S	G	1	0	0.0			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22992	S	A	57994	57985	0.9998448115322275	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	22995	S	A	58036	58026	0.9998276931559722	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23013	S	C	58831	58823	0.9998640172698068	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23018	S	G	58809	58785	0.9995918991991022	mut					mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23040	S	G	58713	6	0.00010219201880333146		mut		mut	mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23048	S	A	58699	1	1.7036065350346683e-05					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23055	S	G	58681	58605	0.998704861880336	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23063	S	T	58675	58655	0.9996591393268002	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23075	S	C	56288	56281	0.9998756395679363	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23202	S	A	40340	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23403	S	G	2667	2667	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23525	S	T	78944	78927	0.9997846574787191	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23599	S	G	81144	81137	0.9999137336093857	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23604	S	A	79953	79926	0.9996623016021913	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23673	S	T	2840	0	0.0		mut					
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23854	S	A	2843	2840	0.9989447766443897	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	23948	S	T	945	944	0.9989417989417989	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	24130	S	A	922	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	24424	S	T	25825	25822	0.9998838334946757	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	24469	S	A	49269	49194	0.9984777446264386	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	24503	S	T	49574	2	4.0343728567394196e-05					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	25000	S	T	6015	6013	0.999667497921862	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	25416	ORF3a	T	145874	4	2.742092490779714e-05		mut	mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	25584	ORF3a	T	467	466	0.9978586723768736	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26060	ORF3a	T	116845	116763	0.9992982155847491	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26270	E	T	117005	116891	0.9990256826631341	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26275	E	G	117020	3	2.5636643308836096e-05			mut				
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26529	M	A	88	74	0.8409090909090909						mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26530	M	G	89	0	0.0					mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26577	M	G	96	96	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26709	M	A	96136	96058	0.9991886494133311	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	26858	M	T	95265	5469	0.05740828216028972	mut	mut	mut	mut			
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27259	ORF6	C	42395	7591	0.17905413374218657	mut	mut	mut	mut	mut		
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27382	ORF6	C	134	19	0.1417910447761194	mut	mut	mut	mut			
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27383	ORF6	T	139	19	0.1366906474820144	mut	mut	mut	mut			
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27384	ORF6	C	142	19	0.13380281690140844	mut	mut	mut	mut			
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27788	ORF7b	T	35607	2460	0.06908753896705704	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27807	ORF7b	T	35576	35562	0.9996064762761412	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	27889		T	32	31	0.96875						mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28271		T	177394	177303	0.9994870175992424	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28311	N	T	177110	177060	0.9997176895714528	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28312	N	T	176603	12	6.794901558863666e-05							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28362	N	-	2105	2086	0.9909738717339668	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28363	N	-	2088	2086	0.9990421455938697	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28364	N	-	2087	2086	0.9995208433157643	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28365	N	-	2086	2086	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28366	N	-	2086	2086	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28367	N	-	2086	2086	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28368	N	-	2086	2086	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28369	N	-	2086	2086	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28370	N	-	2086	2040	0.9779482262703739	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28681	N	T	3954	946	0.23925139099645928							mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28724	N	T	162	17	0.10493827160493827	mut						
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28881	N	A	529915	529741	0.9996716454525726	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28882	N	A	529787	529568	0.9995866263234092	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	28883	N	C	529787	529734	0.999899959795163	mut	mut	mut	mut	mut	mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29510	N	C	106328	106311	0.9998401173726582	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29734		-	87722	87706	0.999817605617747	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29735		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29736		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29737		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29738		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29739		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29740		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29741		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29742		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29743		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29744		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29745		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29746		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29747		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29748		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29749		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29750		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29751		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29752		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29753		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29754		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29755		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29756		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29757		-	87722	87722	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29758		-	87722	87717	0.999943001755546	mut	mut	mut	mut		mut	mut
+davos	2022-08-14	151	v41	2022-08-14	Davos	davos	2022-08-14	29759		-	87722	87712	0.9998860035110918	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	670	ORF1ab	G	152283	152264	0.9998752322977614	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	686	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	687	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	688	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	689	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	690	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	691	ORF1ab	-	152491	20634	0.13531290371235025	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	692	ORF1ab	-	152491	20635	0.135319461476415	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	693	ORF1ab	-	152491	20623	0.13524076830763782	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	694	ORF1ab	-	152491	20623	0.13524076830763782	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	1931	ORF1ab	A	372209	129513	0.3479577334239634							mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	2790	ORF1ab	T	14718	14711	0.9995243919010736	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	2832	ORF1ab	G	14732	2	0.00013575889220743959					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	2954	ORF1ab	C	0	0								mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	3037	ORF1ab	T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	3796	ORF1ab	T	154544	9	5.823584221969148e-05			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	3927	ORF1ab	T	9	0	0.0			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	4321	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	4586	ORF1ab	T	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	5183	ORF1ab	T	30480	0	0.0			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	5386	ORF1ab	G	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	6513	ORF1ab	-	2614	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	6514	ORF1ab	-	2614	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	6515	ORF1ab	-	2616	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	8393	ORF1ab	A	30	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	9424	ORF1ab	G	437	437	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	9534	ORF1ab	T	563	563	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	9866	ORF1ab	T	9997	3	0.00030009002700810244		mut	mut	mut			
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	10029	ORF1ab	T	4761	4761	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	10198	ORF1ab	T	4	4	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	10447	ORF1ab	A	83080	83063	0.9997953779489649	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	10449	ORF1ab	A	83080	83063	0.9997953779489649	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11285	ORF1ab	-	77047	14	0.00018170726958869262					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11286	ORF1ab	-	77048	14	0.00018170491122417194					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11287	ORF1ab	-	77048	14	0.00018170491122417194					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11288	ORF1ab	-	77048	77047	0.9999870210777697	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11289	ORF1ab	-	77422	77042	0.995091834362326	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11290	ORF1ab	-	77695	77042	0.9915953407555184	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11291	ORF1ab	-	78464	77042	0.9818770391517129	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11292	ORF1ab	-	78595	77035	0.9801514091227177	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11293	ORF1ab	-	78714	77035	0.978669614045786	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11294	ORF1ab	-	79006	77034	0.9750398703895906	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11295	ORF1ab	-	79097	77034	0.9739181005600718	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11296	ORF1ab	-	79097	77034	0.9739181005600718	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11537	ORF1ab	G	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11674	ORF1ab	T	28113	0	0.0		mut					
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	11750	ORF1ab	T	26904	10945	0.406816830211121							mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	12160	ORF1ab	A	0	0		mut					mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	12444	ORF1ab	G	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	12880	ORF1ab	T	184720	184587	0.9992799913382416	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	13195	ORF1ab	C	184796	21	0.00011363882335115479					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	14257	ORF1ab	C	0	0								mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	14408	ORF1ab	T	19832	19828	0.9997983057684551	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	15009	ORF1ab	C	1196	20	0.016722408026755852		mut					
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	15240	ORF1ab	T	1437	2	0.0013917884481558804					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	15451	ORF1ab	A	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	15714	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	16935	ORF1ab	A	0	0								mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	17410	ORF1ab	T	2	2	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	18163	ORF1ab	G	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	19955	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	20055	ORF1ab	G	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21618	S	T	48051	48032	0.9996045867931989	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21633	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21634	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21635	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21636	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21637	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21638	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21639	S	-	48073	48073	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21640	S	-	48073	48067	0.999875189815489	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21641	S	-	48073	48064	0.9998127847232334	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21721	S	T	0	0			mut					
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21762	S	T	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21765	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21766	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21767	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21768	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21769	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21770	S	-	0	0		mut				mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21846	S	T	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21987	S	A	1667	1667	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21987	S	-	1667	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21988	S	-	1664	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21989	S	-	1653	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21990	S	-	1651	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21991	S	-	1649	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21992	S	-	1646	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21993	S	-	1628	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21994	S	-	1625	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	21995	S	-	1612	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22001	S	G	1389	0	0.0			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22016	S	C	627	0	0.0			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22033	S	A	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22190	S	G	1685	1	0.0005934718100890207			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22194	S	-	1685	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22195	S	-	1685	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22196	S	-	1685	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22200	S	G	1685	1684	0.9994065281899109	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22331	S	A	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22577	S	C	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22599	S	C	0	0				mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22673	S	C	8	0	0.0					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22674	S	T	8	8	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22679	S	C	9	9	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22686	S	T	9	9	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22688	S	G	9	9	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22775	S	A	9	9	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22786	S	C	0	0		mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22813	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22882	S	G	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22893	S	C	0	0								mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22898	S	A	0	0				mut		mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22917	S	A	0	0			mut					
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22917	S	G	0	0		mut					mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22942	S	A	1	0	0.0							mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22942	S	G	1	0	0.0			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22992	S	A	108340	108310	0.9997230939634484	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	22995	S	A	108340	108320	0.9998153959756323	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23013	S	C	108295	108278	0.9998430213767948	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23018	S	G	108248	108218	0.9997228586209445	mut					mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23040	S	G	108136	8	7.398091292446548e-05		mut		mut	mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23048	S	A	108112	3	2.7749001035962706e-05					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23055	S	G	108091	108034	0.9994726665494814	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23063	S	T	108081	108057	0.9997779443195381	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23075	S	C	105030	105019	0.9998952680186614	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23202	S	A	79296	1	1.2610976594027441e-05					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23403	S	G	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23525	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23599	S	G	5027	5026	0.9998010741993236	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23604	S	A	5027	5023	0.9992042967972946	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23673	S	T	5026	0	0.0		mut					
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23854	S	A	5023	5019	0.9992036631495123	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	23948	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	24130	S	A	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	24424	S	T	35573	35572	0.9999718887920614	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	24469	S	A	56943	56866	0.9986477705775951	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	24503	S	T	57065	2	3.504775256286691e-05					mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	25000	S	T	17098	17096	0.9998830272546496	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	25416	ORF3a	T	270879	13	4.7991907826003494e-05		mut	mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	25584	ORF3a	T	30	30	1.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26060	ORF3a	T	245305	245164	0.9994252053565968	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26270	E	T	245508	245344	0.9993319973279893	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26275	E	G	245518	16	6.516833796300068e-05			mut				
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26529	M	A	0	0							mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26530	M	G	0	0						mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26577	M	G	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26709	M	A	220802	220662	0.9993659477722122	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	26858	M	T	219196	29745	0.13570046898666033	mut	mut	mut	mut			
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27259	ORF6	C	137580	20729	0.15066870184619857	mut	mut	mut	mut	mut		
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27382	ORF6	C	0	0		mut	mut	mut	mut			
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27383	ORF6	T	0	0		mut	mut	mut	mut			
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27384	ORF6	C	0	0		mut	mut	mut	mut			
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27788	ORF7b	T	75483	13495	0.17878197739888452	mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27807	ORF7b	T	75426	75408	0.9997613555007557	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	27889		T	0	0							mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28271		T	281565	281460	0.9996270843322146	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28311	N	T	280928	280858	0.9997508258343775	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28312	N	T	280347	10	3.567008029335074e-05							mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28362	N	-	5	0	0.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28363	N	-	2	0	0.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28364	N	-	2	0	0.0	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28365	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28366	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28367	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28368	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28369	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28370	N	-	0	0		mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28681	N	T	2	1	0.5							mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28724	N	T	0	0		mut						
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28881	N	A	572486	572377	0.9998096023308867	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28882	N	A	572482	572401	0.9998585108352752	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	28883	N	C	572480	572426	0.9999056735606484	mut	mut	mut	mut	mut	mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29510	N	C	138629	138611	0.9998701570378492	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29734		-	137693	137667	0.9998111741337613	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29735		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29736		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29737		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29738		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29739		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29740		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29741		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29742		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29743		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29744		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29745		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29746		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29747		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29748		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29749		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29750		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29751		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29752		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29753		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29754		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29755		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29756		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29757		-	137693	137693	1.0	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29758		-	137693	137688	0.9999636873334157	mut	mut	mut	mut		mut	mut
+davos	2022-09-18	151	v41	2022-09-18	Davos	davos	2022-09-18	29759		-	137694	137680	0.9998983252719799	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	670	ORF1ab	G	288793	288775	0.9999376716194645	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	686	ORF1ab	-	289531	1	3.453861589950644e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	687	ORF1ab	-	289531	1	3.453861589950644e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	688	ORF1ab	-	289525	1	3.4539331663932303e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	689	ORF1ab	-	289523	1	3.4539570258666843e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	690	ORF1ab	-	289403	1	3.45538919776229e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	691	ORF1ab	-	289309	1	3.4565118955856885e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	692	ORF1ab	-	289004	1	3.4601597209727203e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	693	ORF1ab	-	288894	1	3.461477220018415e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	694	ORF1ab	-	288736	2	6.92674276848055e-06	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	1931	ORF1ab	A	111112	23199	0.2087893296853625							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	2790	ORF1ab	T	727	727	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	2832	ORF1ab	G	728	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	2954	ORF1ab	C	84	11	0.13095238095238096							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	3037	ORF1ab	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	3796	ORF1ab	T	10653	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	3927	ORF1ab	T	6	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	4321	ORF1ab	T	7	7	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	4586	ORF1ab	T	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	5183	ORF1ab	T	890	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	5386	ORF1ab	G	132	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	6513	ORF1ab	-	54	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	6514	ORF1ab	-	54	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	6515	ORF1ab	-	54	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	8393	ORF1ab	A	10654	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	9424	ORF1ab	G	3	3	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	9534	ORF1ab	T	817	817	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	9866	ORF1ab	T	1395	554	0.3971326164874552		mut	mut	mut			
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	10029	ORF1ab	T	625	625	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	10198	ORF1ab	T	3013	3011	0.9993362097577165	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	10447	ORF1ab	A	26963	26959	0.9998516485554279	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	10449	ORF1ab	A	26943	26936	0.9997401922577293	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11285	ORF1ab	-	8157	2	0.000245188181929631					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11286	ORF1ab	-	8157	2	0.000245188181929631					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11287	ORF1ab	-	8157	2	0.000245188181929631					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11288	ORF1ab	-	8157	8156	0.9998774059090352	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11289	ORF1ab	-	8220	8155	0.9920924574209246	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11290	ORF1ab	-	8262	8155	0.9870491406439119	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11291	ORF1ab	-	8363	8155	0.9751285423890949	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11292	ORF1ab	-	8378	8155	0.9733826688947242	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11293	ORF1ab	-	8391	8155	0.971874627577166	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11294	ORF1ab	-	8430	8155	0.9673784104389087	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11295	ORF1ab	-	8449	8155	0.9652029826014913	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11296	ORF1ab	-	8449	8155	0.9652029826014913	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11537	ORF1ab	G	80	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11674	ORF1ab	T	10519	380	0.036125106949329785		mut					
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	11750	ORF1ab	T	9156	2191	0.2392966360856269							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	12160	ORF1ab	A	62	38	0.6129032258064516	mut					mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	12444	ORF1ab	G	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	12880	ORF1ab	T	29063	29041	0.999243023775935	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	13195	ORF1ab	C	63141	17	0.00026923868801571085					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	14257	ORF1ab	C	0	0								mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	14408	ORF1ab	T	1797	1797	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	15009	ORF1ab	C	152	11	0.07236842105263158		mut					
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	15240	ORF1ab	T	476	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	15451	ORF1ab	A	9	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	15714	ORF1ab	T	167	166	0.9940119760479041	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	16935	ORF1ab	A	187	34	0.18181818181818182							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	17410	ORF1ab	T	18128	18124	0.9997793468667255	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	18163	ORF1ab	G	192	192	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	19955	ORF1ab	T	13	13	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	20055	ORF1ab	G	2	2	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21618	S	T	3056	3053	0.9990183246073299	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21633	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21634	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21635	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21636	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21637	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21638	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21639	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21640	S	-	3064	3064	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21641	S	-	3064	3058	0.9980417754569191	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21721	S	T	2	1	0.5		mut					
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21762	S	T	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21765	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21766	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21767	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21768	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21769	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21770	S	-	5	4	0.8	mut				mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21846	S	T	403	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21987	S	A	5	5	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21987	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21988	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21989	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21990	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21991	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21992	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21993	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21994	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	21995	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22001	S	G	5	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22016	S	C	4	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22033	S	A	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22190	S	G	5	0	0.0			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22194	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22195	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22196	S	-	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22200	S	G	5	5	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22331	S	A	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22577	S	C	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22599	S	C	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22673	S	C	0	0						mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22674	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22679	S	C	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22686	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22688	S	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22775	S	A	127	127	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22786	S	C	127	127	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22813	S	T	127	127	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22882	S	G	104	104	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22893	S	C	58	0	0.0							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22898	S	A	0	0				mut		mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22917	S	A	0	0			mut					
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22917	S	G	0	0		mut					mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22942	S	A	0	0								mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22942	S	G	0	0				mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22992	S	A	4282	4282	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	22995	S	A	4285	4284	0.9997666277712952	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23013	S	C	4401	4398	0.9993183367416496	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23018	S	G	4402	2465	0.5599727396637891	mut					mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23040	S	G	4397	1927	0.4382533545599272		mut		mut	mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23048	S	A	4395	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23055	S	G	4394	4392	0.9995448338643604	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23063	S	T	4394	4392	0.9995448338643604	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23075	S	C	4235	4234	0.9997638724911452	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23202	S	A	3107	146	0.046990666237528164					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23403	S	G	860	860	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23525	S	T	64266	64249	0.9997354744343822	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23599	S	G	64878	64872	0.9999075187274576	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23604	S	A	64056	64037	0.9997033845385288	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23673	S	T	1056	0	0.0		mut					
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23854	S	A	1057	1055	0.9981078524124882	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	23948	S	T	120	120	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	24130	S	A	120	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	24424	S	T	3368	3367	0.9997030878859857	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	24469	S	A	8650	8644	0.9993063583815028	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	24503	S	T	8667	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	25000	S	T	1148	1148	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	25416	ORF3a	T	43725	754	0.01724413950829045		mut	mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	25584	ORF3a	T	65	65	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26060	ORF3a	T	38478	38461	0.9995581890950673	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26270	E	T	38485	38458	0.9992984279589451	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26275	E	G	38489	3	7.79443477357167e-05			mut				
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26529	M	A	5	2	0.4						mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26530	M	G	5	0	0.0					mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26577	M	G	5	5	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26709	M	A	28009	27990	0.9993216466135885	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	26858	M	T	27755	11401	0.4107728337236534	mut	mut	mut	mut			
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27259	ORF6	C	8111	3223	0.39736160769325607	mut	mut	mut	mut	mut		
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27382	ORF6	C	7	4	0.5714285714285714	mut	mut	mut	mut			
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27383	ORF6	T	7	4	0.5714285714285714	mut	mut	mut	mut			
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27384	ORF6	C	7	4	0.5714285714285714	mut	mut	mut	mut			
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27788	ORF7b	T	8104	507	0.06256169792694966	mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27807	ORF7b	T	8098	8094	0.9995060508767597	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	27889		T	1	0	0.0						mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28271		T	94331	94294	0.9996077641496433	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28311	N	T	94069	94029	0.9995747802145234	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28312	N	T	93791	5	5.3310019084986835e-05							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28362	N	-	234	227	0.9700854700854701	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28363	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28364	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28365	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28366	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28367	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28368	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28369	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28370	N	-	227	227	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28681	N	T	2691	361	0.13415087328130806							mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28724	N	T	0	0		mut						
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28881	N	A	394327	394226	0.9997438673993919	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28882	N	A	394201	394033	0.9995738214768608	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	28883	N	C	394201	394156	0.9998858450384449	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29510	N	C	47637	47631	0.9998740474840985	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29734		-	33085	33080	0.9998488741121354	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29735		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29736		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29737		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29738		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29739		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29740		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29741		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29742		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29743		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29744		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29745		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29746		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29747		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29748		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29749		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29750		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29751		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29752		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29753		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29754		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29755		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29756		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29757		-	33085	33085	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29758		-	33085	33082	0.9999093244672812	mut	mut	mut	mut		mut	mut
+schanf	2022-06-12	151	v41	2022-06-12	S-chanf	schanf	2022-06-12	29759		-	33085	33077	0.9997581985794166	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	670	ORF1ab	G	259393	259359	0.9998689247589565	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	686	ORF1ab	-	259787	24480	0.09423104312378987	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	687	ORF1ab	-	259787	24481	0.09423489243110703	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	688	ORF1ab	-	259786	24481	0.0942352551715643	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	689	ORF1ab	-	259787	24481	0.09423489243110703	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	690	ORF1ab	-	259787	24481	0.09423489243110703	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	691	ORF1ab	-	259787	24481	0.09423489243110703	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	692	ORF1ab	-	259783	24483	0.09424404214286539	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	693	ORF1ab	-	259784	24465	0.09417439103255013	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	694	ORF1ab	-	259652	24465	0.09422226672623357	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	1931	ORF1ab	A	118428	19923	0.16822879724389503							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	2790	ORF1ab	T	427	427	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	2832	ORF1ab	G	428	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	2954	ORF1ab	C	60	10	0.16666666666666666							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	3037	ORF1ab	T	1	1	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	3796	ORF1ab	T	12207	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	3927	ORF1ab	T	2	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	4321	ORF1ab	T	2	2	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	4586	ORF1ab	T	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	5183	ORF1ab	T	1413	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	5386	ORF1ab	G	20	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	6513	ORF1ab	-	65	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	6514	ORF1ab	-	65	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	6515	ORF1ab	-	65	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	8393	ORF1ab	A	5529	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	9424	ORF1ab	G	3	3	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	9534	ORF1ab	T	130	130	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	9866	ORF1ab	T	782	0	0.0		mut	mut	mut			
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	10029	ORF1ab	T	371	371	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	10198	ORF1ab	T	323	323	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	10447	ORF1ab	A	19347	18732	0.9682121259109939	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	10449	ORF1ab	A	19342	19337	0.9997414951918105	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11285	ORF1ab	-	6052	21	0.0034699272967614013					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11286	ORF1ab	-	6052	21	0.0034699272967614013					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11287	ORF1ab	-	6052	21	0.0034699272967614013					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11288	ORF1ab	-	6052	6051	0.9998347653668209	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11289	ORF1ab	-	6111	6050	0.9900180003272787	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11290	ORF1ab	-	6157	6050	0.9826214065291539	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11291	ORF1ab	-	6278	6050	0.9636827014972922	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11292	ORF1ab	-	6303	6031	0.9568459463747422	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11293	ORF1ab	-	6320	6031	0.9542721518987342	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11294	ORF1ab	-	6364	6031	0.9476744186046512	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11295	ORF1ab	-	6376	6031	0.9458908406524467	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11296	ORF1ab	-	6376	6031	0.9458908406524467	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11537	ORF1ab	G	14	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11674	ORF1ab	T	8122	7	0.0008618566855454322		mut					
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	11750	ORF1ab	T	7591	926	0.12198656303517323							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	12160	ORF1ab	A	23	22	0.9565217391304348	mut					mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	12444	ORF1ab	G	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	12880	ORF1ab	T	36524	36490	0.9990691052458658	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	13195	ORF1ab	C	46859	10	0.00021340617597473272					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	14257	ORF1ab	C	0	0								mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	14408	ORF1ab	T	575	575	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	15009	ORF1ab	C	160	1	0.00625		mut					
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	15240	ORF1ab	T	661	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	15451	ORF1ab	A	10	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	15714	ORF1ab	T	65	65	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	16935	ORF1ab	A	95	19	0.2							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	17410	ORF1ab	T	14730	14725	0.9996605566870332	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	18163	ORF1ab	G	169	169	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	19955	ORF1ab	T	2	2	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	20055	ORF1ab	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21618	S	T	1459	1458	0.9993145990404386	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21633	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21634	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21635	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21636	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21637	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21638	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21639	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21640	S	-	1459	1459	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21641	S	-	1459	1458	0.9993145990404386	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21721	S	T	0	0			mut					
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21762	S	T	0	0						mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21765	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21766	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21767	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21768	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21769	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21770	S	-	0	0		mut				mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21846	S	T	106	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21987	S	A	4	4	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21987	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21988	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21989	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21990	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21991	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21992	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21993	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21994	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	21995	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22001	S	G	4	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22016	S	C	1	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22033	S	A	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22190	S	G	4	0	0.0			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22194	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22195	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22196	S	-	4	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22200	S	G	4	4	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22331	S	A	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22577	S	C	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22599	S	C	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22673	S	C	0	0						mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22674	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22679	S	C	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22686	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22688	S	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22775	S	A	31	31	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22786	S	C	31	31	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22813	S	T	31	31	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22882	S	G	28	28	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22893	S	C	17	0	0.0							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22898	S	A	0	0				mut		mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22917	S	A	0	0			mut					
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22917	S	G	0	0		mut					mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22942	S	A	0	0								mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22942	S	G	0	0				mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22992	S	A	2887	2887	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	22995	S	A	2889	2888	0.9996538594669436	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23013	S	C	2914	2914	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23018	S	G	2913	2906	0.9975969790593889	mut					mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23040	S	G	2908	1	0.000343878954607978		mut		mut	mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23048	S	A	2907	1	0.0003439972480220158					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23055	S	G	2907	2905	0.9993120055039559	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23063	S	T	2907	2906	0.999656002751978	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23075	S	C	2837	2837	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23202	S	A	2191	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23403	S	G	546	546	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23525	S	T	35122	35111	0.9996868059905473	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23599	S	G	35845	35841	0.9998884084251639	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23604	S	A	35295	35290	0.9998583368749114	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23673	S	T	988	0	0.0		mut					
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23854	S	A	991	991	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	23948	S	T	6	6	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	24130	S	A	6	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	24424	S	T	1792	1792	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	24469	S	A	3724	3723	0.9997314715359829	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	24503	S	T	3726	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	25000	S	T	595	595	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	25416	ORF3a	T	30866	5	0.00016199053975247846		mut	mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	25584	ORF3a	T	11	11	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26060	ORF3a	T	35075	35063	0.9996578759800427	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26270	E	T	35117	35096	0.9994019990318079	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26275	E	G	35118	3	8.542627712284299e-05			mut				
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26529	M	A	2	1	0.5						mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26530	M	G	2	0	0.0					mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26577	M	G	2	2	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26709	M	A	29097	29083	0.9995188507406262	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	26858	M	T	28775	2653	0.09219808861859252	mut	mut	mut	mut			
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27259	ORF6	C	9635	988	0.10254281266216918	mut	mut	mut	mut	mut		
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27382	ORF6	C	0	0		mut	mut	mut	mut			
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27383	ORF6	T	1	0	0.0	mut	mut	mut	mut			
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27384	ORF6	C	1	0	0.0	mut	mut	mut	mut			
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27788	ORF7b	T	11548	983	0.08512296501558711	mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27807	ORF7b	T	11538	11532	0.999479979199168	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	27889		T	0	0							mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28271		T	119185	119127	0.9995133615807358	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28311	N	T	118853	118815	0.9996802773173584	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28312	N	T	118559	5	4.217309525215294e-05							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28362	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28363	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28364	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28365	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28366	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28367	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28368	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28369	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28370	N	-	27	27	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28681	N	T	1630	154	0.09447852760736196							mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28724	N	T	0	0		mut						
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28881	N	A	348873	348760	0.999676099898817	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28882	N	A	348803	348652	0.9995670908793789	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	28883	N	C	348803	348766	0.9998939229307088	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29510	N	C	41097	41092	0.9998783366182447	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29734		-	34936	34929	0.9997996336157545	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29735		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29736		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29737		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29738		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29739		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29740		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29741		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29742		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29743		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29744		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29745		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29746		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29747		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29748		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29749		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29750		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29751		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29752		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29753		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29754		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29755		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29756		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29757		-	34936	34936	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29758		-	34936	34935	0.9999713762308221	mut	mut	mut	mut		mut	mut
+schanf	2022-07-17	151	v41	2022-07-17	S-chanf	schanf	2022-07-17	29759		-	34936	34929	0.9997996336157545	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	670	ORF1ab	G	90675	90660	0.9998345740281224	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	686	ORF1ab	-	90831	1	1.1009457123669232e-05	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	687	ORF1ab	-	90829	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	688	ORF1ab	-	90828	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	689	ORF1ab	-	90826	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	690	ORF1ab	-	90825	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	691	ORF1ab	-	90822	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	692	ORF1ab	-	90816	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	693	ORF1ab	-	90813	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	694	ORF1ab	-	90812	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	1931	ORF1ab	A	155703	6694	0.04299210676737121							mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	2790	ORF1ab	T	2984	2984	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	2832	ORF1ab	G	2984	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	2954	ORF1ab	C	0	0								mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	3037	ORF1ab	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	3796	ORF1ab	T	33145	0	0.0			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	3927	ORF1ab	T	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	4321	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	4586	ORF1ab	T	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	5183	ORF1ab	T	7047	0	0.0			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	5386	ORF1ab	G	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	6513	ORF1ab	-	407	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	6514	ORF1ab	-	407	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	6515	ORF1ab	-	407	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	8393	ORF1ab	A	26	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	9424	ORF1ab	G	33	33	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	9534	ORF1ab	T	43	43	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	9866	ORF1ab	T	4490	0	0.0		mut	mut	mut			
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	10029	ORF1ab	T	844	844	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	10198	ORF1ab	T	1	1	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	10447	ORF1ab	A	38838	38828	0.9997425202121634	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	10449	ORF1ab	A	38838	38828	0.9997425202121634	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11285	ORF1ab	-	18089	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11286	ORF1ab	-	18090	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11287	ORF1ab	-	18091	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11288	ORF1ab	-	18091	18091	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11289	ORF1ab	-	18147	18091	0.9969140904832755	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11290	ORF1ab	-	18215	18091	0.9931924238265166	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11291	ORF1ab	-	18379	18091	0.9843299417813809	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11292	ORF1ab	-	18406	18091	0.9828860154297512	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11293	ORF1ab	-	18431	18091	0.9815528186208019	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11294	ORF1ab	-	18519	18091	0.9768886008963767	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11295	ORF1ab	-	18548	18091	0.9753612249299116	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11296	ORF1ab	-	18548	18091	0.9753612249299116	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11537	ORF1ab	G	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11674	ORF1ab	T	13827	0	0.0		mut					
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	11750	ORF1ab	T	13327	669	0.05019884445111428							mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	12160	ORF1ab	A	0	0		mut					mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	12444	ORF1ab	G	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	12880	ORF1ab	T	70214	70149	0.9990742586948472	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	13195	ORF1ab	C	70237	14	0.0001993251420191637					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	14257	ORF1ab	C	0	0								mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	14408	ORF1ab	T	2557	2557	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	15009	ORF1ab	C	557	8	0.01436265709156194		mut					
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	15240	ORF1ab	T	1128	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	15451	ORF1ab	A	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	15714	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	16935	ORF1ab	A	1	0	0.0							mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	17410	ORF1ab	T	3	3	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	18163	ORF1ab	G	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	19955	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	20055	ORF1ab	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21618	S	T	8274	8269	0.9993956973652405	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21633	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21634	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21635	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21636	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21637	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21638	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21639	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21640	S	-	8291	8291	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21641	S	-	8291	8289	0.9997587745748402	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21721	S	T	0	0			mut					
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21762	S	T	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21765	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21766	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21767	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21768	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21769	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21770	S	-	0	0		mut				mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21846	S	T	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21987	S	A	54	54	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21987	S	-	54	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21988	S	-	54	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21989	S	-	53	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21990	S	-	53	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21991	S	-	52	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21992	S	-	52	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21993	S	-	52	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21994	S	-	52	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	21995	S	-	52	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22001	S	G	51	0	0.0			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22016	S	C	16	0	0.0			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22033	S	A	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22190	S	G	54	0	0.0			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22194	S	-	54	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22195	S	-	54	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22196	S	-	54	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22200	S	G	54	54	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22331	S	A	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22577	S	C	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22599	S	C	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22673	S	C	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22674	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22679	S	C	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22686	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22688	S	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22775	S	A	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22786	S	C	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22813	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22882	S	G	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22893	S	C	0	0								mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22898	S	A	0	0				mut		mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22917	S	A	0	0			mut					
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22917	S	G	0	0		mut					mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22942	S	A	0	0								mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22942	S	G	0	0				mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22992	S	A	22414	22408	0.9997323101632908	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	22995	S	A	22414	22412	0.9999107700544303	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23013	S	C	22405	22404	0.9999553671055568	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23018	S	G	22393	21954	0.980395659357835	mut					mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23040	S	G	22373	2	8.939346533768382e-05		mut		mut	mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23048	S	A	22369	1	4.4704725289463095e-05					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23055	S	G	22363	22354	0.9995975495237669	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23063	S	T	22362	22357	0.9997764064037206	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23075	S	C	21735	21734	0.9999539912583391	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23202	S	A	16652	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23403	S	G	1	1	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23525	S	T	10	10	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23599	S	G	2894	2892	0.9993089149965446	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23604	S	A	2894	2894	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23673	S	T	2885	1	0.0003466204506065858		mut					
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23854	S	A	2883	2881	0.9993062781824489	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	23948	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	24130	S	A	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	24424	S	T	10694	10692	0.9998129792406957	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	24469	S	A	17894	17846	0.9973175366044484	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	24503	S	T	17937	0	0.0					mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	25000	S	T	2875	2875	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	25416	ORF3a	T	64241	3	4.669914851885867e-05		mut	mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	25584	ORF3a	T	13	13	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26060	ORF3a	T	95803	95744	0.9993841528970909	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26270	E	T	95800	95715	0.9991127348643006	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26275	E	G	95809	7	7.306202966318405e-05			mut				
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26529	M	A	0	0							mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26530	M	G	0	0						mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26577	M	G	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26709	M	A	70063	70013	0.9992863565648059	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	26858	M	T	69259	4	5.775422688748033e-05	mut	mut	mut	mut			
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27259	ORF6	C	22339	1	4.4764761179999104e-05	mut	mut	mut	mut	mut		
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27382	ORF6	C	0	0		mut	mut	mut	mut			
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27383	ORF6	T	0	0		mut	mut	mut	mut			
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27384	ORF6	C	0	0		mut	mut	mut	mut			
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27788	ORF7b	T	25796	1	3.876570010854396e-05	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27807	ORF7b	T	25781	25772	0.9996509057057523	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	27889		T	2	2	1.0						mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28271		T	189001	188914	0.9995396849752117	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28311	N	T	188554	188500	0.9997136098942478	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28312	N	T	188188	10	5.313835101069144e-05							mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28362	N	-	7	3	0.42857142857142855	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28363	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28364	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28365	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28366	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28367	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28368	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28369	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28370	N	-	3	3	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28681	N	T	15	0	0.0							mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28724	N	T	2	0	0.0	mut						
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28881	N	A	341748	341672	0.9997776139143463	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28882	N	A	341747	341673	0.9997834655461496	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	28883	N	C	341747	341705	0.9998771020667335	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29510	N	C	61403	58777	0.9572333599335537	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29734		-	60975	60963	0.9998031980319804	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29735		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29736		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29737		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29738		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29739		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29740		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29741		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29742		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29743		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29744		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29745		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29746		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29747		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29748		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29749		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29750		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29751		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29752		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29753		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29754		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29755		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29756		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29757		-	60975	60975	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29758		-	60975	60972	0.999950799507995	mut	mut	mut	mut		mut	mut
+schanf	2022-08-14	151	v41	2022-08-14	S-chanf	schanf	2022-08-14	29759		-	60975	60966	0.9998523985239852	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	241		T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	670	ORF1ab	G	316717	316692	0.9999210651780611	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	686	ORF1ab	-	318518	11778	0.036977502056398694	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	687	ORF1ab	-	318408	11778	0.03699027662621542	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	688	ORF1ab	-	318324	11778	0.03700003769744034	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	689	ORF1ab	-	317960	11778	0.03704239526984526	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	690	ORF1ab	-	317765	11778	0.037065126744606866	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	691	ORF1ab	-	317577	11778	0.037087068647918456	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	692	ORF1ab	-	317186	11778	0.03713278644076346	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	693	ORF1ab	-	317012	11770	0.03712793206566313	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	694	ORF1ab	-	316789	11770	0.03715406784957811	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	1931	ORF1ab	A	207053	23	0.0001110826696546295							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	2790	ORF1ab	T	2483	2481	0.9991945227547322	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	2832	ORF1ab	G	2484	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	2954	ORF1ab	C	16	0	0.0							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	3037	ORF1ab	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	3796	ORF1ab	T	38894	7973	0.20499305805522702			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	3927	ORF1ab	T	7	3	0.42857142857142855			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	4184	ORF1ab	A	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	4321	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	4586	ORF1ab	T	0	0				mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	5183	ORF1ab	T	6699	1044	0.15584415584415584			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	5386	ORF1ab	G	22	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	6513	ORF1ab	-	137	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	6514	ORF1ab	-	137	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	6515	ORF1ab	-	137	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	8393	ORF1ab	A	14064	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	9344	ORF1ab	T	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	9424	ORF1ab	G	12	12	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	9534	ORF1ab	T	1326	1326	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	9866	ORF1ab	T	2162	277	0.12812210915818686		mut	mut	mut			
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	10029	ORF1ab	T	742	742	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	10198	ORF1ab	T	635	634	0.9984251968503937	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	10447	ORF1ab	A	73429	73413	0.9997821024390908	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	10449	ORF1ab	A	73422	73398	0.9996731224973441	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11285	ORF1ab	-	30737	7	0.0002277385561375541					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11286	ORF1ab	-	30737	7	0.0002277385561375541					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11287	ORF1ab	-	30737	7	0.0002277385561375541					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11288	ORF1ab	-	30737	30735	0.9999349318411036	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11289	ORF1ab	-	30950	30736	0.9930856219709209	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11290	ORF1ab	-	31092	30736	0.9885501093528882	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11291	ORF1ab	-	31457	30736	0.9770798232507868	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11292	ORF1ab	-	31538	30730	0.9743801128797007	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11293	ORF1ab	-	31611	30730	0.9721299547625827	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11294	ORF1ab	-	31775	30730	0.9671125098347758	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11295	ORF1ab	-	31829	30730	0.965471739608533	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11296	ORF1ab	-	31829	30730	0.965471739608533	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11537	ORF1ab	G	86	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11674	ORF1ab	T	18181	1	5.5002475111380014e-05		mut					
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	11750	ORF1ab	T	17313	0	0.0							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	12160	ORF1ab	A	427	427	1.0	mut					mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	12444	ORF1ab	G	3	0	0.0			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	12880	ORF1ab	T	84092	84037	0.9993459544308614	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	13195	ORF1ab	C	103781	28	0.00026979890346017095					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	14257	ORF1ab	C	5	0	0.0							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	14408	ORF1ab	T	3723	3721	0.9994627988181574	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	15009	ORF1ab	C	273	7	0.02564102564102564		mut					
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	15240	ORF1ab	T	673	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	15451	ORF1ab	A	10	0	0.0			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	15714	ORF1ab	T	161	160	0.9937888198757764	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	16935	ORF1ab	A	538	148	0.275092936802974							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	17410	ORF1ab	T	31265	31256	0.9997121381736767	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	18163	ORF1ab	G	445	445	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	19955	ORF1ab	T	32	32	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	20055	ORF1ab	G	4	4	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21618	S	T	13868	13865	0.9997836746466686	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21633	S	-	13880	13879	0.9999279538904899	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21634	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21635	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21636	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21637	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21638	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21639	S	-	13880	13880	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21640	S	-	13880	13879	0.9999279538904899	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21641	S	-	13880	13876	0.9997118155619596	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21721	S	T	12	0	0.0		mut					
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21762	S	T	0	0						mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21765	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21766	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21767	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21768	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21769	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21770	S	-	0	0		mut				mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21846	S	T	1284	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21987	S	A	24	24	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21987	S	-	24	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21988	S	-	24	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21989	S	-	24	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21990	S	-	24	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21991	S	-	23	5	0.21739130434782608					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21992	S	-	23	5	0.21739130434782608					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21993	S	-	23	5	0.21739130434782608					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21994	S	-	23	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	21995	S	-	23	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22001	S	G	21	2	0.09523809523809523			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22016	S	C	14	2	0.14285714285714285			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22033	S	A	1	0	0.0			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22190	S	G	27	2	0.07407407407407407			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22194	S	-	27	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22195	S	-	27	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22196	S	-	27	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22200	S	G	27	27	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22331	S	A	0	0				mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22577	S	C	0	0				mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22578	S	A	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22599	S	C	0	0				mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22673	S	C	0	0						mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22674	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22679	S	C	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22686	S	T	0	0		mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22688	S	G	0	0		mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22775	S	A	182	181	0.9945054945054945	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22786	S	C	182	182	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22813	S	T	182	181	0.9945054945054945	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22882	S	G	138	138	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22893	S	C	82	0	0.0							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22898	S	A	0	0				mut		mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22917	S	A	0	0			mut					
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22917	S	G	0	0		mut					mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22942	S	A	0	0								mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22942	S	G	0	0				mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22992	S	A	15401	15398	0.9998052074540614	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	22995	S	A	15407	15404	0.99980528331278	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23013	S	C	15570	15567	0.9998073217726396	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23018	S	G	15570	14633	0.939820166987797	mut					mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23040	S	G	15551	0	0.0		mut		mut	mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23048	S	A	15548	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23055	S	G	15542	15533	0.9994209239480119	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23063	S	T	15539	15533	0.999613874766716	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23075	S	C	15054	15051	0.9998007174172977	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23202	S	A	11073	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23403	S	G	1813	1813	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23525	S	T	62323	62305	0.9997111820676154	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23599	S	G	64083	64079	0.9999375809497059	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23604	S	A	63692	63675	0.9997330904980217	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23673	S	T	2016	0	0.0		mut					
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23854	S	A	2016	2016	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	23948	S	T	60	60	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	24130	S	A	60	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	24424	S	T	6776	6776	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	24469	S	A	12565	12544	0.9983286908077994	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	24503	S	T	12614	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	25000	S	T	2891	2891	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	25416	ORF3a	T	74080	4479	0.06046166306695464		mut	mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	25584	ORF3a	T	23	23	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26060	ORF3a	T	111371	111289	0.999263722153882	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26270	E	T	111324	111213	0.9990029104236283	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26275	E	G	111335	10557	0.09482193380338617			mut				
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26529	M	A	13	8	0.6153846153846154						mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26530	M	G	13	0	0.0					mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26577	M	G	13	13	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26709	M	A	71431	71369	0.9991320295109967	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	26858	M	T	70722	8717	0.12325726082407172	mut	mut	mut	mut			
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27259	ORF6	C	39822	4476	0.11240018080458038	mut	mut	mut	mut	mut		
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27382	ORF6	C	15	3	0.2	mut	mut	mut	mut			
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27383	ORF6	T	15	3	0.2	mut	mut	mut	mut			
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27384	ORF6	C	15	3	0.2	mut	mut	mut	mut			
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27788	ORF7b	T	43679	2560	0.05860940039836077	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27807	ORF7b	T	43629	43611	0.9995874303788764	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	27889		T	8	7	0.875						mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28271		T	225695	225592	0.9995436318925984	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28311	N	T	225097	225025	0.999680137896107	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28312	N	T	224566	14	6.23424739274868e-05							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28362	N	-	182	172	0.945054945054945	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28363	N	-	173	172	0.9942196531791907	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28364	N	-	173	172	0.9942196531791907	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28365	N	-	172	172	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28366	N	-	172	172	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28367	N	-	172	172	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28368	N	-	172	172	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28369	N	-	172	172	1.0	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28370	N	-	172	166	0.9651162790697675	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28681	N	T	10881	2551	0.23444536347762154							mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28724	N	T	370	78	0.21081081081081082	mut						
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28881	N	A	612981	612688	0.9995220080230872	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28882	N	A	612751	612458	0.9995218286057469	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	28883	N	C	612750	612678	0.9998824969400245	mut	mut	mut	mut	mut	mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29510	N	C	103169	103150	0.9998158361523326	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29734		-	74461	74447	0.9998119821114408	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29735		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29736		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29737		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29738		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29739		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29740		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29741		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29742		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29743		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29744		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29745		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29746		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29747		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29748		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29749		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29750		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29751		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29752		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29753		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29754		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29755		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29756		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29757		-	74461	74461	1.0	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29758		-	74461	74457	0.9999462806032688	mut	mut	mut	mut		mut	mut
+schanf	2022-09-18	151	v41	2022-09-18	S-chanf	schanf	2022-09-18	29759		-	74463	74451	0.9998388461383506	mut	mut	mut	mut		mut	mut

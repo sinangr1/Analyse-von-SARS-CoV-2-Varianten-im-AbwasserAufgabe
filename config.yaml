@@ -1,0 +1,27 @@
+general:
+    virus_base_config: 'sars-cov-2'
+    # e.g: 'hiv', 'sars-cov-2', or absent
+
+input:
+    samples_file: samples.tsv
+    variants_def_directory: vocs/
+
+output:
+    datadir: samples/
+
+    trim_primers: true
+    # see: config/README.md#amplicon-protocols
+    snv: false
+    local: false
+    global: false
+    visualization: false
+    diversity: false
+    QA: false
+    upload: false
+    dehumanized_raw_reads: false
+
+tallymut:
+    timeline_file: timeline.tsv
+
+deconvolution:
+    deconvolution_config: deconv_linear_logit_quasi_strat.yaml
